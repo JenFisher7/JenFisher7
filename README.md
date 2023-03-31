@@ -19,8 +19,8 @@
 ### Sex-bias adverse event (Comming Soon!)
 [Sex-aware drug repurposing review](entral.com/articles/10.1186/s13293-022-00420-8)
 
-### Other computional projects
-- Polycystic kidney disease drug repurposing:
+### Other computional projects 
+- Polycystic kidney disease drug repurposing
     - [github](https://github.com/lasseignelab/pkd_drugrepurposing)
 - Cinmetrics R package
     - [github](https://github.com/lasseignelab/CINmetrics)
