@@ -16,10 +16,10 @@
 [preprint](https://www.biorxiv.org/content/10.1101/2023.03.10.532074v1.abstract)
 [Zenodo](https://zenodo.org/record/7661401#.ZCbFLezMIdU)
 
-## Comming Soon! Sex-bias Adverse Event 
+### Sex-bias adverse event (Comming Soon!)
 [Sex-aware drug repurposing review](entral.com/articles/10.1186/s13293-022-00420-8)
 
-## Other computional projects
+### Other computional projects
 - Polycystic kidney disease drug repurposing:
     - [github](https://github.com/lasseignelab/pkd_drugrepurposing)
 - Cinmetrics R package
