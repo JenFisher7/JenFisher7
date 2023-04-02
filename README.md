@@ -1,7 +1,7 @@
 # Jennifer (Jen) Fisher
 
 
-- I am a highly-motivated, knowledgeable and skilled Ph.D. candidate at the University of Alabama at Birmingham in the Graduate Biomedical Science’s Genetics, Genomics, & Bioinformatics program (Expected to Graduate Aug. 2023).
+- I am a highly-motivated, knowledgeable, and skilled Ph.D. candidate at the University of Alabama at Birmingham in the Graduate Biomedical Science’s Genetics, Genomics, & Bioinformatics program (Expected to Graduate Aug. 2023).
 - My long-term research interest is to improve genome-driven precision medicine via computational biology and data science methods. 
 - During my Ph.D. dissertation project, I focused on drug repurposing in low-survival cancers and investigating sex-bias adverse events. 
 - I have first-author preprint on drug repurposing in low-survival cancers, sex-aware drug repurposing review, and other publications related to drug repurposing, chromosomal instability, and RNA-Seq analysis. 
