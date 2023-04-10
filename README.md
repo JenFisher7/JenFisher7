@@ -29,6 +29,8 @@
     - [Github](https://github.com/lasseignelab/pkd_drugrepurposing)
 - Cinmetrics R package
     - [Github](https://github.com/lasseignelab/CINmetrics)
+- lasseignelab/modelselection: Evaluating cancer cell line and patient-derived xenograft recapitulation of tumor and non-diseased tissue gene expression profiles
+    - [Github](https://github.com/lasseignelab/modelselection)
 
 ## Research publications
 - [Google scholar](https://scholar.google.com/citations?hl=en&user=xhLubiEAAAAJ)
