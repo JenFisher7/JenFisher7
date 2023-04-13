@@ -25,7 +25,7 @@
 - [Sex-aware drug repurposing review](entral.com/articles/10.1186/s13293-022-00420-8)
 
 ### Other computional projects 
-- Polycystic kidney disease drug repurposing
+- Prioritized polycystic kidney disease drug targets and repurposing candidates from pre-cystic and cystic mouse model gene expression reversion
     - [Github](https://github.com/lasseignelab/pkd_drugrepurposing)
     - [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.02.518863v1)
         - Under Revisions at BMC Molecular Medicine
