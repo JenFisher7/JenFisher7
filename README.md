@@ -27,10 +27,15 @@
 ### Other computional projects 
 - Polycystic kidney disease drug repurposing
     - [Github](https://github.com/lasseignelab/pkd_drugrepurposing)
-- Cinmetrics R package
+    - [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.02.518863v1)
+        - Under Revisions at BMC Molecular Medicine
+- CINmetrics: An R package for chromosomal instability analysis
     - [Github](https://github.com/lasseignelab/CINmetrics)
-- lasseignelab/modelselection: Evaluating cancer cell line and patient-derived xenograft recapitulation of tumor and non-diseased tissue gene expression profiles
+    - [Preprint](https://www.biorxiv.org/content/10.1101/2021.11.15.467294v2.full)
+        - Accepted at PeerJ (April 25th)
+- Evaluating cancer cell line and patient-derived xenograft recapitulation of tumor and non-diseased tissue gene expression profiles
     - [Github](https://github.com/lasseignelab/modelselection)
+    - [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.11.536431v1)
 
 ## Research publications
 - [Google scholar](https://scholar.google.com/citations?hl=en&user=xhLubiEAAAAJ)
