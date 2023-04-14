@@ -17,6 +17,7 @@
 ## Computional Projects
 
 ### Cancer drug repurposing
+- Under Review at Molecular Oncology 
 - [Github](https://github.com/lasseignelab/Cancer_Signature_Reversion)
 - [Preprint](https://www.biorxiv.org/content/10.1101/2023.03.10.532074v1.abstract)
 - [Zenodo](https://zenodo.org/record/7661401#.ZCbFLezMIdU)
