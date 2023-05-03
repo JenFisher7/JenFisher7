@@ -32,11 +32,12 @@
         - Under Revisions at BMC Molecular Medicine
 - CINmetrics: An R package for chromosomal instability analysis
     - [Github](https://github.com/lasseignelab/CINmetrics)
-    - [Preprint](https://www.biorxiv.org/content/10.1101/2021.11.15.467294v2.full)
-        - Accepted at PeerJ (April 25th)
+    - [PeerJ](https://peerj.com/articles/15244/)
+
 - Evaluating cancer cell line and patient-derived xenograft recapitulation of tumor and non-diseased tissue gene expression profiles
     - [Github](https://github.com/lasseignelab/modelselection)
     - [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.11.536431v1)
+         - Under Review at Cancer Reports
 
 ## Research publications
 - [Google scholar](https://scholar.google.com/citations?hl=en&user=xhLubiEAAAAJ)
