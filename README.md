@@ -22,7 +22,9 @@
 - [Preprint](https://www.biorxiv.org/content/10.1101/2023.03.10.532074v1.abstract)
 - [Zenodo](https://zenodo.org/record/7661401#.ZCbFLezMIdU)
 
-### Sex-bias adverse event (Comming Soon!)
+### Sex-bias adverse events (Comming Soon!)
+- [Github](https://github.com/lasseignelab/230321_JLF_Sex_bias_adverse_events/tree/v1.1.1)
+- ** Preprint Comming Soon!**
 - [Sex-aware drug repurposing review](entral.com/articles/10.1186/s13293-022-00420-8)
 
 ### Other computional projects 
