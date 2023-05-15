@@ -24,7 +24,7 @@
 
 ### Sex-bias adverse events (Comming Soon!)
 - [Github](https://github.com/lasseignelab/230321_JLF_Sex_bias_adverse_events/tree/v1.1.1)
-- ** Preprint Comming Soon!**
+- **Preprint Comming Soon!**
 - [Sex-aware drug repurposing review](entral.com/articles/10.1186/s13293-022-00420-8)
 
 ### Other computional projects 
