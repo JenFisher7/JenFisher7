@@ -22,19 +22,23 @@
 - [Preprint](https://www.biorxiv.org/content/10.1101/2023.03.10.532074v1.abstract)
 - [Zenodo](https://zenodo.org/record/7661401#.ZCbFLezMIdU)
 
-### Sex-bias adverse events (Comming Soon!)
+### Sex-bias adverse events
 - [Github](https://github.com/lasseignelab/230321_JLF_Sex_bias_adverse_events/tree/v1.1.1)
-- **Preprint Comming Soon!**
-- [Sex-aware drug repurposing review](entral.com/articles/10.1186/s13293-022-00420-8)
+- [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.23.541950v1)
+- [Sex-aware drug repurposing review](https://bsd.biomedcentral.com/articles/10.1186/s13293-022-00420-8)
 
 ### Other computional projects 
 - Prioritized polycystic kidney disease drug targets and repurposing candidates from pre-cystic and cystic mouse model gene expression reversion
     - [Github](https://github.com/lasseignelab/pkd_drugrepurposing)
-    - [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.02.518863v1)
-        - Accepted at BMC Molecular Medicine
+    - [BMC Molecular Medicine](https://www.biorxiv.org/content/10.1101/2022.12.02.518863v1](https://molmed.biomedcentral.com/articles/10.1186/s10020-023-00664-z)
+  
 - CINmetrics: An R package for chromosomal instability analysis
     - [Github](https://github.com/lasseignelab/CINmetrics)
-    - [PeerJ](https://peerj.com/articles/15244/)
+    - [PeerJ Application Note](https://peerj.com/articles/15244/)
+   
+- Inferring chromosomal instability from copy number aberrations as a measure of chromosomal instability across human cancers
+    - [GitHub](https://github.com/lasseignelab/CINmetrics_Cancer_Analysis)
+    - [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.24.542174v1)
 
 - Evaluating cancer cell line and patient-derived xenograft recapitulation of tumor and non-diseased tissue gene expression profiles
     - [Github](https://github.com/lasseignelab/modelselection)
