@@ -30,7 +30,7 @@
 ### Other computional projects 
 - Prioritized polycystic kidney disease drug targets and repurposing candidates from pre-cystic and cystic mouse model gene expression reversion
     - [Github](https://github.com/lasseignelab/pkd_drugrepurposing)
-    - [BMC Molecular Medicine](https://www.biorxiv.org/content/10.1101/2022.12.02.518863v1](https://molmed.biomedcentral.com/articles/10.1186/s10020-023-00664-z)
+    - [BMC Molecular Medicine](https://molmed.biomedcentral.com/articles/10.1186/s10020-023-00664-z)
   
 - CINmetrics: An R package for chromosomal instability analysis
     - [Github](https://github.com/lasseignelab/CINmetrics)
