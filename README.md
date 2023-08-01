@@ -8,13 +8,13 @@
 - In addition, I am currently finishing a project focused on sex-bias adverse events, drug side-effects that are more likely to occur in one sex, by investigating sex-bias gene expression and sex-specific gene-regulatory networks across several tissues.
 - Overall, my undergraduate and Ph.D. training in engineering, genomics, and data science and my research interests have prepared me to conduct and lead computational biomedical research studies to improve genome-driven precision medicine.
 
-## Computional Skills
+## Computational Skills
 - R programming, RStudio, and Rmarkdown
 - Docker
-- Command line, Singularity, and Anaconda on high performance computing systems (HPC)
+- Command line, Singularity, and Anaconda on high-performance computing systems (HPC)
 - Previous experience with Python and MATLAB in undergraduate research and coursework
 
-## Computional Projects
+## Computational Projects
 
 ### Cancer drug repurposing
 - Under Review at Molecular Oncology 
@@ -27,7 +27,7 @@
 - [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.23.541950v1)
 - [Sex-aware drug repurposing review](https://bsd.biomedcentral.com/articles/10.1186/s13293-022-00420-8)
 
-### Other computional projects 
+### Other computational projects 
 - Prioritized polycystic kidney disease drug targets and repurposing candidates from pre-cystic and cystic mouse model gene expression reversion
     - [Github](https://github.com/lasseignelab/pkd_drugrepurposing)
     - [BMC Molecular Medicine](https://molmed.biomedcentral.com/articles/10.1186/s10020-023-00664-z)
@@ -39,12 +39,13 @@
 - Inferring chromosomal instability from copy number aberrations as a measure of chromosomal instability across human cancers
     - [GitHub](https://github.com/lasseignelab/CINmetrics_Cancer_Analysis)
     - [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.24.542174v1)
+    - Under Review at Cancer Reports
 
 - Evaluating cancer cell line and patient-derived xenograft recapitulation of tumor and non-diseased tissue gene expression profiles
     - [Github](https://github.com/lasseignelab/modelselection)
     - [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.11.536431v1)
-         - Under Review at Cancer Reports
+         - Accepted at Cancer Reports
 
 ## Research publications
-- [Google scholar](https://scholar.google.com/citations?hl=en&user=xhLubiEAAAAJ)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=xhLubiEAAAAJ)
 - [OCRID](https://orcid.org/0000-0002-9657-1216)
