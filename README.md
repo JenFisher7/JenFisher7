@@ -1,10 +1,9 @@
 # Jennifer (Jen) Fisher
 
-**Computational Biologist with expertise in AI/ML and bioinformatics for machine learning risk assessment & precision medicine models.**
+**Computational Biologist and Group Leader with expertise in AI/ML and bioinformatics for machine learning risk assessment & precision medicine models.**
 
-  At CFD Research, I lead predictive modeling projects for gut microbiome and contributed to QSAR tool development for chemical risk assessment (AFRL). Furthermore, I've supported and won multi-million-dollar proposals for agencies like DTRA, NIH, FDA, and ARPA-H—including a **$5M DTRA award and a $3M MCDC proposal selected for the basket**. 
-  
-  I earned my Ph.D. in Genetics, Genomics & Bioinformatics from UAB in 2023, where my research centered on leveraging machine learning for drug repurposing and predicting adverse drug events. My work has led to several publications in areas such as cancer omics, QSAR modeling, and drug response. With a B.S. in Biological Engineering (Biomedical concentration) and a Math minor from Mississippi State University, I bring a strong interdisciplinary foundation that bridges computational modeling, biological systems, and real-world health applications. Overall, I'm passionate about applying data-driven methods to complex biomedical challenges, from therapeutic discovery to biosecurity.
+At CFD Research, I lead the Bioinformatics Data Science team, overseeing predictive modeling initiatives supporting federal sponsors, including the U.S. Air Force Research Laboratory (AFRL) and NASA. My work spans multimodal data analysis, AI/ML modeling, and development of QSAR-based tools for chemical risk assessment, along with user-focused analytical platforms. I contribute to proposal strategy and capture efforts that have secured multi-million-dollar federal awards.
+I earned my Ph.D. in Genetics, Genomics & Bioinformatics from UAB in 2023, where my research centered on leveraging machine learning for drug repurposing and predicting adverse drug events. My work has led to several publications in areas such as cancer omics, QSAR modeling, and drug response. With a B.S. in Biological Engineering (with a Biomedical concentration) and a minor in Math from Mississippi State University, I bring a strong interdisciplinary foundation that bridges computational modeling, biological systems, and real-world health applications. Overall, I'm passionate about applying data-driven methods to complex biomedical challenges, from therapeutic discovery, biosecurity, and space biology.
 
 
 ## Computational Skills
